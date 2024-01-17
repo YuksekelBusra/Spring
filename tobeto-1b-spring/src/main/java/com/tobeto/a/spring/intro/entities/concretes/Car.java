@@ -43,4 +43,3 @@ public class Car extends BaseEntity {
     @JoinColumn(name="color_id")
     private Color color;
 }
-//
